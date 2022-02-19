@@ -1,7 +1,4 @@
 
-[![Matrix SVG]()](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-
 - 👋 Hi, I’m Jean Duarte from Brazil
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

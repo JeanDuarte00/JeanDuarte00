@@ -15,7 +15,7 @@
   Reach me out on [LinkedIn](https://www.linkedin.com/in/jean-duarte-9931a39b/) for more information.
 
 
-<div>
+<div width="100%" align="center">
      <img width="60%" align="right" src="https://github-readme-stats.vercel.app/api?username=JeanDuarte00&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,130F40,000000" alt="Jean's Github Stats">
  
     

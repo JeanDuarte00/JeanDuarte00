@@ -2,7 +2,7 @@
 
 ## Hello, nerds 🖖
 
-![Star War](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxlejlpc2p1amltMjUyN2UwMXloeWUyM2cxZGRvdGNudjJ4b3JhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yDYAHbqe5DfyM/giphy.gif)
+![Star War](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZ3dW5neHAwbmQ1aDhmeGFtN2h3OG5sdDVzYzRkemtuaWQwemxzYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MQU79SiZ8ePlgYizCu/giphy.gif)
 
 > *“Do. Or do not. There is no try.”* — unless we’re in a spike branch, then trying is encouraged.
 
